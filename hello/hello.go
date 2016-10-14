@@ -4,6 +4,7 @@ import (
   "fmt"
 )
 
+
 func main() {
-  fmt.Println("Hello World, this is new world arafat!!")
+  fmt.Println("Hello World!!")
 }
